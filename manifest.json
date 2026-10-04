@@ -1,0 +1,57 @@
+{
+  "cdn": "jsdelivr",
+  "cdnBase": "",
+  "mirror": true,
+  "apk": {
+    "file": "files/chaos-bandpack-v1.0.0.apk",
+    "version": "v1.0.0",
+    "size": "14.38 MB",
+    "note": "最新稳定版"
+  },
+  "assets": [
+    {
+      "key": "chaos-fontpack-lxgw.bin",
+      "file": "files/chaos-fontpack-lxgw.bin",
+      "name": "Chaos Fontpack · LXGW",
+      "type": "字体投递包",
+      "size": "3.54 MB",
+      "tone": "blue",
+      "order": 1,
+      "note": "",
+      "hidden": false
+    },
+    {
+      "key": "chaos-fontpack-haoshenti.bin",
+      "file": "files/chaos-fontpack-haoshenti.bin",
+      "name": "Chaos Fontpack · 好身体",
+      "type": "字体投递包",
+      "size": "3.07 MB",
+      "tone": "yellow",
+      "order": 2,
+      "note": "",
+      "hidden": false
+    },
+    {
+      "key": "chaos-iconpack-delta.bin",
+      "file": "files/chaos-iconpack-delta.bin",
+      "name": "Chaos Iconpack · Delta",
+      "type": "图标投递包",
+      "size": "1.97 MB",
+      "tone": "violet",
+      "order": 3,
+      "note": "",
+      "hidden": false
+    },
+    {
+      "key": "chaos-iconpack-pure.bin",
+      "file": "files/chaos-iconpack-pure.bin",
+      "name": "Chaos Iconpack · Pure",
+      "type": "图标投递包",
+      "size": "1.83 MB",
+      "tone": "green",
+      "order": 4,
+      "note": "",
+      "hidden": false
+    }
+  ]
+}
